@@ -1,4 +1,4 @@
-# What are some common mistakes in the Excel spreadsheet and Troubleshoot?
+# What are some common mistakes in the Excel spreadsheet and Troubleshoot? 
 
 ## I searched about it and found some common mistakes or errors such as:
 
